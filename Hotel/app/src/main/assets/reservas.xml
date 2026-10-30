@@ -1,0 +1,580 @@
+<hotel nombre="Hotel Sol" categoria="4 estrellas" fechaDatos="2026-10-20">
+    <nombre>Hotel Sol</nombre>
+    <ciudad>Madrid</ciudad>
+    <direccion>Calle Mayor 25, Madrid</direccion>
+    <telefono>+34 910 555 200</telefono>
+    <habitaciones>
+        <habitacion numero="101" estado="ocupada" planta="1">
+            <tipo>Individual</tipo>
+            <capacidad>1</capacidad>
+            <precioNoche>75</precioNoche>
+            <vista>Patio interior</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="102" estado="ocupada" planta="1">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>110</precioNoche>
+            <vista>Calle Mayor</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="103" estado="ocupada" planta="1">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>115</precioNoche>
+            <vista>Patio interior</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="104" estado="ocupada" planta="1">
+            <tipo>Suite</tipo>
+            <capacidad>3</capacidad>
+            <precioNoche>190</precioNoche>
+            <vista>Jardín</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="105" estado="ocupada" planta="1">
+            <tipo>Individual</tipo>
+            <capacidad>1</capacidad>
+            <precioNoche>80</precioNoche>
+            <vista>Calle Mayor</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="106" estado="ocupada" planta="1">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>120</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="107" estado="ocupada" planta="1">
+            <tipo>Familiar</tipo>
+            <capacidad>4</capacidad>
+            <precioNoche>165</precioNoche>
+            <vista>Patio interior</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="108" estado="ocupada" planta="1">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>125</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="109" estado="ocupada" planta="1">
+            <tipo>Individual</tipo>
+            <capacidad>1</capacidad>
+            <precioNoche>78</precioNoche>
+            <vista>Patio interior</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="110" estado="ocupada" planta="1">
+            <tipo>Suite</tipo>
+            <capacidad>3</capacidad>
+            <precioNoche>205</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="111" estado="disponible" planta="2">
+            <tipo>Individual</tipo>
+            <capacidad>1</capacidad>
+            <precioNoche>82</precioNoche>
+            <vista>Patio interior</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="112" estado="disponible" planta="2">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>118</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="113" estado="disponible" planta="2">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>122</precioNoche>
+            <vista>Jardín</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="114" estado="disponible" planta="2">
+            <tipo>Familiar</tipo>
+            <capacidad>4</capacidad>
+            <precioNoche>170</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="115" estado="disponible" planta="2">
+            <tipo>Suite</tipo>
+            <capacidad>3</capacidad>
+            <precioNoche>210</precioNoche>
+            <vista>Jardín</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="116" estado="disponible" planta="2">
+            <tipo>Individual</tipo>
+            <capacidad>1</capacidad>
+            <precioNoche>79</precioNoche>
+            <vista>Calle Mayor</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="117" estado="disponible" planta="2">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>125</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="118" estado="disponible" planta="2">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>130</precioNoche>
+            <vista>Jardín</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="119" estado="disponible" planta="2">
+            <tipo>Familiar</tipo>
+            <capacidad>4</capacidad>
+            <precioNoche>175</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="120" estado="disponible" planta="2">
+            <tipo>Suite</tipo>
+            <capacidad>3</capacidad>
+            <precioNoche>220</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="121" estado="disponible" planta="3">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>128</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="122" estado="disponible" planta="3">
+            <tipo>Familiar</tipo>
+            <capacidad>4</capacidad>
+            <precioNoche>180</precioNoche>
+            <vista>Jardín</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="123" estado="mantenimiento" planta="3">
+            <tipo>Individual</tipo>
+            <capacidad>1</capacidad>
+            <precioNoche>80</precioNoche>
+            <vista>Patio interior</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="124" estado="mantenimiento" planta="3">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>120</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="125" estado="mantenimiento" planta="3">
+            <tipo>Suite</tipo>
+            <capacidad>3</capacidad>
+            <precioNoche>215</precioNoche>
+            <vista>Jardín</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="126" estado="disponible" planta="3">
+            <tipo>Individual</tipo>
+            <capacidad>1</capacidad>
+            <precioNoche>85</precioNoche>
+            <vista>Calle Mayor</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="127" estado="disponible" planta="3">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>132</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="128" estado="disponible" planta="3">
+            <tipo>Doble</tipo>
+            <capacidad>2</capacidad>
+            <precioNoche>135</precioNoche>
+            <vista>Jardín</vista>
+            <accesible>no</accesible>
+        </habitacion>
+        <habitacion numero="129" estado="disponible" planta="3">
+            <tipo>Familiar</tipo>
+            <capacidad>4</capacidad>
+            <precioNoche>185</precioNoche>
+            <vista>Ciudad</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+        <habitacion numero="130" estado="disponible" planta="3">
+            <tipo>Suite</tipo>
+            <capacidad>3</capacidad>
+            <precioNoche>230</precioNoche>
+            <vista>Jardín</vista>
+            <accesible>sí</accesible>
+        </habitacion>
+    </habitaciones>
+    <reservas>
+        <reserva codigo="R001" estado="confirmada">
+            <cliente>
+                <nombre>Ana</nombre>
+                <apellidos>García</apellidos>
+                <email>ana.garcia@example.com</email>
+            </cliente>
+            <habitacionReservada>101</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>1</personas>
+            <observaciones>Preferencia de habitación tranquila</observaciones>
+        </reserva>
+        <reserva codigo="R002" estado="confirmada">
+            <cliente>
+                <nombre>Carlos</nombre>
+                <apellidos>López</apellidos>
+                <email>carlos.lopez@example.com</email>
+            </cliente>
+            <habitacionReservada>102</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>2</personas>
+            <observaciones>Llegada prevista por la tarde</observaciones>
+        </reserva>
+        <reserva codigo="R003" estado="confirmada">
+            <cliente>
+                <nombre>Laura</nombre>
+                <apellidos>Martínez</apellidos>
+                <email>laura.martinez@example.com</email>
+            </cliente>
+            <habitacionReservada>103</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>2</personas>
+            <observaciones>Solicita cama supletoria si está disponible</observaciones>
+        </reserva>
+        <reserva codigo="R004" estado="confirmada">
+            <cliente>
+                <nombre>Diego</nombre>
+                <apellidos>Rodríguez</apellidos>
+                <email>diego.rodriguez@example.com</email>
+            </cliente>
+            <habitacionReservada>104</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>1</personas>
+            <observaciones>Reserva realizada desde la web</observaciones>
+        </reserva>
+        <reserva codigo="R005" estado="confirmada">
+            <cliente>
+                <nombre>Sofía</nombre>
+                <apellidos>Fernández</apellidos>
+                <email>sofia.fernandez@example.com</email>
+            </cliente>
+            <habitacionReservada>105</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>2</personas>
+            <observaciones>Cliente recurrente</observaciones>
+        </reserva>
+        <reserva codigo="R006" estado="confirmada">
+            <cliente>
+                <nombre>Marcos</nombre>
+                <apellidos>Sánchez</apellidos>
+                <email>marcos.sanchez@example.com</email>
+            </cliente>
+            <habitacionReservada>106</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>2</personas>
+            <observaciones>Solicita información de aparcamiento</observaciones>
+        </reserva>
+        <reserva codigo="R007" estado="confirmada">
+            <cliente>
+                <nombre>Lucía</nombre>
+                <apellidos>Pérez</apellidos>
+                <email>lucia.perez@example.com</email>
+            </cliente>
+            <habitacionReservada>107</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>1</personas>
+            <observaciones>Preferencia de habitación tranquila</observaciones>
+        </reserva>
+        <reserva codigo="R008" estado="confirmada">
+            <cliente>
+                <nombre>Javier</nombre>
+                <apellidos>Gómez</apellidos>
+                <email>javier.gomez@example.com</email>
+            </cliente>
+            <habitacionReservada>108</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>2</personas>
+            <observaciones>Llegada prevista por la tarde</observaciones>
+        </reserva>
+        <reserva codigo="R009" estado="confirmada">
+            <cliente>
+                <nombre>Elena</nombre>
+                <apellidos>Díaz</apellidos>
+                <email>elena.diaz@example.com</email>
+            </cliente>
+            <habitacionReservada>109</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>2</personas>
+            <observaciones>Solicita cama supletoria si está disponible</observaciones>
+        </reserva>
+        <reserva codigo="R010" estado="confirmada">
+            <cliente>
+                <nombre>Pablo</nombre>
+                <apellidos>Moreno</apellidos>
+                <email>pablo.moreno@example.com</email>
+            </cliente>
+            <habitacionReservada>110</habitacionReservada>
+            <entrada>2026-10-18</entrada>
+            <salida>2026-10-22</salida>
+            <personas>1</personas>
+            <observaciones>Reserva realizada desde la web</observaciones>
+        </reserva>
+        <reserva codigo="R011" estado="confirmada">
+            <cliente>
+                <nombre>Nora</nombre>
+                <apellidos>Jiménez</apellidos>
+                <email>nora.jimenez@example.com</email>
+            </cliente>
+            <habitacionReservada>111</habitacionReservada>
+            <entrada>2026-10-24</entrada>
+            <salida>2026-10-27</salida>
+            <personas>2</personas>
+            <observaciones>Cliente recurrente</observaciones>
+        </reserva>
+        <reserva codigo="R012" estado="confirmada">
+            <cliente>
+                <nombre>Adrián</nombre>
+                <apellidos>Ruiz</apellidos>
+                <email>adrian.ruiz@example.com</email>
+            </cliente>
+            <habitacionReservada>112</habitacionReservada>
+            <entrada>2026-10-24</entrada>
+            <salida>2026-10-27</salida>
+            <personas>2</personas>
+            <observaciones>Solicita información de aparcamiento</observaciones>
+        </reserva>
+        <reserva codigo="R013" estado="confirmada">
+            <cliente>
+                <nombre>Valeria</nombre>
+                <apellidos>Hernández</apellidos>
+                <email>valeria.hernandez@example.com</email>
+            </cliente>
+            <habitacionReservada>113</habitacionReservada>
+            <entrada>2026-10-24</entrada>
+            <salida>2026-10-27</salida>
+            <personas>2</personas>
+            <observaciones>Preferencia de habitación tranquila</observaciones>
+        </reserva>
+        <reserva codigo="R014" estado="confirmada">
+            <cliente>
+                <nombre>Mateo</nombre>
+                <apellidos>Álvarez</apellidos>
+                <email>mateo.alvarez@example.com</email>
+            </cliente>
+            <habitacionReservada>114</habitacionReservada>
+            <entrada>2026-10-24</entrada>
+            <salida>2026-10-27</salida>
+            <personas>2</personas>
+            <observaciones>Llegada prevista por la tarde</observaciones>
+        </reserva>
+        <reserva codigo="R015" estado="confirmada">
+            <cliente>
+                <nombre>Paula</nombre>
+                <apellidos>Romero</apellidos>
+                <email>paula.romero@example.com</email>
+            </cliente>
+            <habitacionReservada>115</habitacionReservada>
+            <entrada>2026-10-24</entrada>
+            <salida>2026-10-27</salida>
+            <personas>2</personas>
+            <observaciones>Solicita cama supletoria si está disponible</observaciones>
+        </reserva>
+        <reserva codigo="R016" estado="finalizada">
+            <cliente>
+                <nombre>Hugo</nombre>
+                <apellidos>Navarro</apellidos>
+                <email>hugo.navarro@example.com</email>
+            </cliente>
+            <habitacionReservada>116</habitacionReservada>
+            <entrada>2026-10-10</entrada>
+            <salida>2026-10-12</salida>
+            <personas>1</personas>
+            <observaciones>Reserva realizada desde la web</observaciones>
+        </reserva>
+        <reserva codigo="R017" estado="finalizada">
+            <cliente>
+                <nombre>Claudia</nombre>
+                <apellidos>Torres</apellidos>
+                <email>claudia.torres@example.com</email>
+            </cliente>
+            <habitacionReservada>117</habitacionReservada>
+            <entrada>2026-10-10</entrada>
+            <salida>2026-10-12</salida>
+            <personas>2</personas>
+            <observaciones>Cliente recurrente</observaciones>
+        </reserva>
+        <reserva codigo="R018" estado="finalizada">
+            <cliente>
+                <nombre>Daniel</nombre>
+                <apellidos>Domínguez</apellidos>
+                <email>daniel.dominguez@example.com</email>
+            </cliente>
+            <habitacionReservada>118</habitacionReservada>
+            <entrada>2026-10-10</entrada>
+            <salida>2026-10-12</salida>
+            <personas>1</personas>
+            <observaciones>Solicita información de aparcamiento</observaciones>
+        </reserva>
+        <reserva codigo="R019" estado="finalizada">
+            <cliente>
+                <nombre>Irene</nombre>
+                <apellidos>Vázquez</apellidos>
+                <email>irene.vazquez@example.com</email>
+            </cliente>
+            <habitacionReservada>119</habitacionReservada>
+            <entrada>2026-10-10</entrada>
+            <salida>2026-10-12</salida>
+            <personas>2</personas>
+            <observaciones>Preferencia de habitación tranquila</observaciones>
+        </reserva>
+        <reserva codigo="R020" estado="finalizada">
+            <cliente>
+                <nombre>Samuel</nombre>
+                <apellidos>Ramos</apellidos>
+                <email>samuel.ramos@example.com</email>
+            </cliente>
+            <habitacionReservada>120</habitacionReservada>
+            <entrada>2026-10-10</entrada>
+            <salida>2026-10-12</salida>
+            <personas>1</personas>
+            <observaciones>Llegada prevista por la tarde</observaciones>
+        </reserva>
+        <reserva codigo="R021" estado="cancelada">
+            <cliente>
+                <nombre>Alba</nombre>
+                <apellidos>Gil</apellidos>
+                <email>alba.gil@example.com</email>
+            </cliente>
+            <habitacionReservada>126</habitacionReservada>
+            <entrada>2026-10-05</entrada>
+            <salida>2026-10-08</salida>
+            <personas>2</personas>
+            <observaciones>Solicita cama supletoria si está disponible</observaciones>
+        </reserva>
+        <reserva codigo="R022" estado="cancelada">
+            <cliente>
+                <nombre>Leo</nombre>
+                <apellidos>Serrano</apellidos>
+                <email>leo.serrano@example.com</email>
+            </cliente>
+            <habitacionReservada>127</habitacionReservada>
+            <entrada>2026-10-05</entrada>
+            <salida>2026-10-08</salida>
+            <personas>2</personas>
+            <observaciones>Reserva realizada desde la web</observaciones>
+        </reserva>
+        <reserva codigo="R023" estado="cancelada">
+            <cliente>
+                <nombre>Carmen</nombre>
+                <apellidos>Molina</apellidos>
+                <email>carmen.molina@example.com</email>
+            </cliente>
+            <habitacionReservada>128</habitacionReservada>
+            <entrada>2026-10-05</entrada>
+            <salida>2026-10-08</salida>
+            <personas>2</personas>
+            <observaciones>Cliente recurrente</observaciones>
+        </reserva>
+        <reserva codigo="R024" estado="cancelada">
+            <cliente>
+                <nombre>Mario</nombre>
+                <apellidos>Delgado</apellidos>
+                <email>mario.delgado@example.com</email>
+            </cliente>
+            <habitacionReservada>129</habitacionReservada>
+            <entrada>2026-10-05</entrada>
+            <salida>2026-10-08</salida>
+            <personas>2</personas>
+            <observaciones>Solicita información de aparcamiento</observaciones>
+        </reserva>
+        <reserva codigo="R025" estado="cancelada">
+            <cliente>
+                <nombre>Inés</nombre>
+                <apellidos>Ortega</apellidos>
+                <email>ines.ortega@example.com</email>
+            </cliente>
+            <habitacionReservada>130</habitacionReservada>
+            <entrada>2026-10-05</entrada>
+            <salida>2026-10-08</salida>
+            <personas>2</personas>
+            <observaciones>Preferencia de habitación tranquila</observaciones>
+        </reserva>
+        <reserva codigo="R026" estado="pendiente">
+            <cliente>
+                <nombre>Eric</nombre>
+                <apellidos>Castro</apellidos>
+                <email>eric.castro@example.com</email>
+            </cliente>
+            <habitacionReservada>126</habitacionReservada>
+            <entrada>2026-11-02</entrada>
+            <salida>2026-11-05</salida>
+            <personas>3</personas>
+            <observaciones>Llegada prevista por la tarde</observaciones>
+        </reserva>
+        <reserva codigo="R027" estado="pendiente">
+            <cliente>
+                <nombre>Marta</nombre>
+                <apellidos>Ortiz</apellidos>
+                <email>marta.ortiz@example.com</email>
+            </cliente>
+            <habitacionReservada>127</habitacionReservada>
+            <entrada>2026-11-02</entrada>
+            <salida>2026-11-05</salida>
+            <personas>2</personas>
+            <observaciones>Solicita cama supletoria si está disponible</observaciones>
+        </reserva>
+        <reserva codigo="R028" estado="pendiente">
+            <cliente>
+                <nombre>Andrés</nombre>
+                <apellidos>Rubio</apellidos>
+                <email>andres.rubio@example.com</email>
+            </cliente>
+            <habitacionReservada>128</habitacionReservada>
+            <entrada>2026-11-02</entrada>
+            <salida>2026-11-05</salida>
+            <personas>3</personas>
+            <observaciones>Reserva realizada desde la web</observaciones>
+        </reserva>
+        <reserva codigo="R029" estado="pendiente">
+            <cliente>
+                <nombre>Alicia</nombre>
+                <apellidos>Marín</apellidos>
+                <email>alicia.marin@example.com</email>
+            </cliente>
+            <habitacionReservada>129</habitacionReservada>
+            <entrada>2026-11-02</entrada>
+            <salida>2026-11-05</salida>
+            <personas>2</personas>
+            <observaciones>Cliente recurrente</observaciones>
+        </reserva>
+        <reserva codigo="R030" estado="pendiente">
+            <cliente>
+                <nombre>Iván</nombre>
+                <apellidos>Iglesias</apellidos>
+                <email>ivan.iglesias@example.com</email>
+            </cliente>
+            <habitacionReservada>130</habitacionReservada>
+            <entrada>2026-11-02</entrada>
+            <salida>2026-11-05</salida>
+            <personas>3</personas>
+            <observaciones>Solicita información de aparcamiento</observaciones>
+        </reserva>
+    </reservas>
+</hotel>
